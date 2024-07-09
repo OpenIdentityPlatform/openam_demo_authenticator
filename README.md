@@ -3,7 +3,6 @@
 [![Issues](https://img.shields.io/github/issues/OpenIdentityPlatform/openam_demo_authenticator.svg)](https://github.com/OpenIdentityPlatform/openam_demo_authenticator/issues)
 [![Last commit](https://img.shields.io/github/last-commit/OpenIdentityPlatform/openam_demo_authenticator.svg)](https://github.com/OpenIdentityPlatform/OpenAM/commits/master)
 [![License](https://img.shields.io/badge/license-CDDL-blue.svg)](https://github.com/OpenIdentityPlatform/OpenAM/blob/master/LICENSE.md)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/OpenIdentityPlatform/OpenAM)
 [![Top language](https://img.shields.io/github/languages/top/OpenIdentityPlatform/openam_demo_authenticator.svg)](https://github.com/OpenIdentityPlatform/openam_demo_authenticator)
 [![Code size in bytes](https://img.shields.io/github/languages/code-size/OpenIdentityPlatform/openam_demo_authenticator.svg)](https://github.com/OpenIdentityPlatform/openam_demo_authenticator)
 
